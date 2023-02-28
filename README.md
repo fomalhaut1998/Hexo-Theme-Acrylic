@@ -72,4 +72,4 @@ cp -rf ./themes/Acrylic/_config.yml ./_config.Acrylic.yml
 复制```/themes/Acrylic/_config.yml```此文件到hexo根目录，并重命名为```_config.Acrylic.yml```
 
 ## 仓库统计
-![仓库统计](https://repobeats.axiom.co/api/embed/dc0811878b58fb116e94f81fc1341bdb81fccb9e.svg "Repobeats analytics image")
+![仓库统计](https://repobeats.axiom.co/api/embed/d7b318f1bf6a566495cf126196194f6145ee63a6.svg "Repobeats analytics image")
